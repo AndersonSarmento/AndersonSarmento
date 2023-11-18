@@ -57,9 +57,14 @@ I'm a Data Engineer working at Itaú Bank.<p>
 My day-to-day work is to create and maintain data pipelines.<p>
 I currently work on the cloud modernization front with data mesh
 
+<div>
+  <a href="https://github.com/AndersonSarmento">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=AndersonSarmento&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSarmento&layout=compact&langs_count=7&theme=react" />
 
-![AndersonSarmento's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonSarmento&theme=tokyonight&show_icons=true) 
-  ![xxx](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSarmento&theme=tokyonight) 
+  <img align="center" width="120" height="170" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+
 
 ## 🔧 Technologies & Tools 
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>   <img align="center" alt="Aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   <img align="center" alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>   <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>   <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>   <img align="center" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
