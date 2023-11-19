@@ -1,12 +1,10 @@
 <div align="left">
   
-# Hello there, I'm Anderson Sarmento  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42">
+# Hello there, I'm Anderson Sarmento <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42">
 
 </div>
 
-
-<p align="center">
-    
+<p align="left">
 <a 
    href="https://www.credly.com/badges/6e637984-4a6f-476a-9c44-c0096f6f5e19/public_url"
    target="_blank" 
@@ -29,6 +27,17 @@
       width="100px" 
       style="max-width:100px;"/>
    </a>&nbsp; &nbsp;
+  <a 
+   href="https://en.wikipedia.org/wiki/ThunderCats_(1985_TV_series)"
+   target="_blank" 
+   title="Badge Thundercats"
+   alt="Thundercats">
+   <img 
+      src="https://media.tenor.com/WKHXxZDFdhQAAAAi/thundercats-mografic.gif"
+      alt="AWS Certified Solutions Architect – Professional"
+      width="100px" 
+      style="max-width:100px;"  />
+  </a>&nbsp; &nbsp;   
    <a
    href="https://www.credly.com/badges/67ba735e-ab16-4723-a80c-3a6e43c7a159/public_url"
    target="_blank" 
@@ -71,6 +80,5 @@ I currently work on the cloud modernization front with data mesh
 
 
 </div>
-
 
 
