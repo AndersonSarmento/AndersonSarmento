@@ -3,8 +3,11 @@
 # Hello there, I'm Anderson Sarmento <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42">
 
 I'm a Data Engineer working at Itaú Bank.<p>
-My day-to-day work is to create and maintain data pipelines.<p>
-I currently work with Aws Glue,S3 and Data Mesh
+My day-to-day work is:
+- Create and maintain data pipelines
+- Democratizing tables in Data Lake using AWS Cloud,
+- Architecture and development of pipelines using AWS services such as: AWS Glue, IAM, Athena, Step Functions, Event Bridge
+- Finops with - Apptio Cloudability
 
 ## Badges  
 </div>
