@@ -2,8 +2,12 @@
   
 # Hello there, I'm Anderson Sarmento <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="42">
 
-</div>
+I'm a Data Engineer working at Itaú Bank.<p>
+My day-to-day work is to create and maintain data pipelines.<p>
+I currently work with Aws Glue,S3 and Data Mesh
 
+## Badges  
+</div>
 <p align="left">
 <a 
    href="https://www.credly.com/badges/6e637984-4a6f-476a-9c44-c0096f6f5e19/public_url"
@@ -60,22 +64,17 @@
       width="100px" 
       style="max-width:100px;"  />
   </a>&nbsp; &nbsp;
-
- 
-I'm a Data Engineer working at Itaú Bank.<p>
-My day-to-day work is to create and maintain data pipelines.<p>
-I currently work with AWS cloud and Data Mesh,
-
+   
 <div>
   <a href="https://github.com/AndersonSarmento">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=AndersonSarmento&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSarmento&layout=compact&langs_count=7&theme=react" />
-
 </div>
 
 
 ## 🔧 Technologies & Tools 
-  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>   <img align="center" alt="Aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   <img align="center" alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>   <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>   <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>   <img align="center" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+
+<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>   <img align="center" alt="Aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   <img align="center" alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>   <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>   <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>   <img align="center" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   <img align="center" alt="VisualCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 
