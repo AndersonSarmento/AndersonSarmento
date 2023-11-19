@@ -60,9 +60,8 @@ I currently work on the cloud modernization front with data mesh
 <div>
   <a href="https://github.com/AndersonSarmento">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=AndersonSarmento&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSarmento&layout=compact&langs_count=7&theme=react" />
+  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSarmento&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="120" height="170" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
 
 
