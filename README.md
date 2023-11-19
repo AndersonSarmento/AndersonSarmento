@@ -64,7 +64,7 @@
  
 I'm a Data Engineer working at Itaú Bank.<p>
 My day-to-day work is to create and maintain data pipelines.<p>
-I currently work on the cloud modernization front with data mesh
+I currently work with AWS cloud and Data Mesh,
 
 <div>
   <a href="https://github.com/AndersonSarmento">
