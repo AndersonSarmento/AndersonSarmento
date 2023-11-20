@@ -4,12 +4,10 @@
 <a href="https://www.linkedin.com/in/anderson-sarmento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
-I'm a Data Engineer working at Itaú Bank.<p>
-My day-to-day work is:
-- Create and maintain data pipelines
-- Democratizing tables in Data Lake using AWS Cloud,
-- Architecture and development of pipelines using AWS services such as: AWS Glue, IAM, Athena, Step Functions, Event Bridge
-- Finops with Apptio Cloudability
+I work as a Data Engineer at Itaú Bank.<p>
+My responsibilities include creating and maintaining data pipelines, democratizing tables in Data Lake using AWS Cloud, and handling Finops with Apptio Cloudability. <p>
+I am familiar with various AWS services such as Glue, IAM, Athena, Step Functions, and Eventbridge. <p>
+
 
 ## Badges  
 </div>
