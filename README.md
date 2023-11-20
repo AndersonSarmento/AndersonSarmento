@@ -2,6 +2,7 @@
   
 ## Hello there, I'm Anderson Sarmento  
 <a href="https://www.linkedin.com/in/anderson-sarmento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 I'm a Data Engineer working at Itaú Bank.<p>
 My day-to-day work is:
@@ -68,6 +69,8 @@ My day-to-day work is:
       width="100px" 
       style="max-width:100px;"  />
   </a>&nbsp; &nbsp;
+
+
    
 <div>
   <a href="https://github.com/AndersonSarmento">
@@ -75,10 +78,6 @@ My day-to-day work is:
 </div>
  &nbsp;
  &nbsp;
-
-
-
-
 
 ## Technologies & Tools 
 <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>   <img align="center" alt="Aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   <img align="center" alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>   <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>   <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>   <img align="center" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
