@@ -9,6 +9,10 @@ My responsibilities include creating and maintaining data pipelines, democratizi
 I am familiar with various AWS services such as Glue, IAM, Athena, Step Functions, and Eventbridge. <p>
 
 
+
+
+
+
 ## Badges  
 </div>
 <p align="left">
