@@ -8,7 +8,6 @@ I work as a Data Engineer at Itaú Bank.<p>
 My responsibilities include creating and maintaining data pipelines, democratizing tables in Data Lake using AWS Cloud, and handling Finops with Apptio Cloudability. <p>
 I am familiar with various AWS services such as Glue, IAM, Athena, Step Functions, and Eventbridge. <p>
 
-
 ## Badges  
 </div>
 <p align="left">
