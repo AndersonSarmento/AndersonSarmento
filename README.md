@@ -23,6 +23,18 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
       style="max-width:100px;"  />
   </a>&nbsp; &nbsp;
   <a
+   href="http://badges.com.br/share/8ce8014aaef3f754b7ed17e33f6728bb.php?a=3712"
+   target="_blank"
+   alt="Associate - Data Engineering"
+   title="Associate - Data Engineering">
+   <img 
+      src="https://brasilopenbadge.com.br/badge/3712.png?"
+      alt="Associate - Data Engineering" 
+      width="100px" 
+      style="max-width:100px;"/>
+   </a>&nbsp; &nbsp;  
+  <a
+  <a
    href="http://badges.com.br/share/929b2a238ef0fba68031a583a89ecb64.php?a=3706"
    target="_blank"
    alt="Practitioner-Leadership D&A"
