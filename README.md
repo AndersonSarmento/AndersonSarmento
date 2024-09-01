@@ -19,9 +19,20 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
    <img 
       src="https://user-images.githubusercontent.com/509054/163974726-600afdfa-d161-4013-824d-20e168dc5efc.png"
       alt="AWS Certified Solutions Architect – Professional"
-      width="100px" 
+      width="120px" 
       style="max-width:100px;"  />
   </a>&nbsp; &nbsp;
+<a 
+   href="https://www.credly.com/earner/earned/badge/feacb947-8306-4b62-bd57-865da60434fd"
+   target="_blank" 
+   title="Professional - Data Engineering"
+   alt="Professional - Data Engineering">
+   <img 
+      src="https://images.credly.com/images/57cd0782-e05d-40f6-ac99-139e8727b945/image.png"
+      alt="AWS Certified Solutions Architect – Professional"
+      width="120px" 
+      style="max-width:100px;"  />
+  </a>&nbsp; &nbsp;  
   <a
    href="http://badges.com.br/share/8ce8014aaef3f754b7ed17e33f6728bb.php?a=3712"
    target="_blank"
@@ -30,7 +41,7 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
    <img 
       src="https://brasilopenbadge.com.br/badge/3712.png?"
       alt="Associate - Data Engineering" 
-      width="100px" 
+      width="120px" 
       style="max-width:100px;"/>
    </a>&nbsp; &nbsp;  
   <a
@@ -42,7 +53,7 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
    <img 
       src="https://brasilopenbadge.com.br/badge/3706.png"
       alt="Practitioner-" 
-      width="100px" 
+      width="120px" 
       style="max-width:100px;"/>
    </a>&nbsp; &nbsp;  
   <a
@@ -53,7 +64,7 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
    <img 
       src="https://brasilopenbadge.com.br/badge/3694.png"
       alt="Practitioner-D&A Foundation" 
-      width="100px" 
+      width="120px" 
       style="max-width:100px;"/>
    </a>&nbsp; &nbsp;
   <a 
@@ -64,7 +75,7 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
    <img 
       src="https://media.tenor.com/WKHXxZDFdhQAAAAi/thundercats-mografic.gif"
       alt="AWS Certified Solutions Architect – Professional"
-      width="100px" 
+      width="120px" 
       style="max-width:100px;"  />
   </a>&nbsp; &nbsp;   
    <a
@@ -75,7 +86,7 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
    <img 
       src="https://images.credly.com/size/110x110/images/4e5341a0-031a-477d-a3c6-7a641e79dc2c/Hadoop_Data_Found_Level_1_-_CC_-_2019.png"
       alt="Hadoop Foundations - Level 1"
-      width="100px" 
+      width="120px" 
       style="max-width:100px;"  />
   </a>&nbsp; &nbsp;
   <a
@@ -86,7 +97,7 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
    <img 
       src="https://images.credly.com/size/110x110/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png"
       alt="Big Data Foundations-Level 1"
-      width="100px" 
+      width="120px" 
       style="max-width:100px;"  />
   </a>&nbsp; &nbsp;
    
