@@ -79,13 +79,13 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
       style="max-width:100px;"  />
   </a>&nbsp; &nbsp;   
    <a
-   href="https://www.credly.com/badges/67ba735e-ab16-4723-a80c-3a6e43c7a159/public_url"
+   href="https://www.credly.com/badges/7e5864af-2eea-4d43-86fd-4a339d59bcae"
    target="_blank" 
-   title="Badge Hadoop Foundations - Level 1"
-   alt="Hadoop Foundations - Level 1">
+   title="Associate - Data Modelling"
+   alt="Associate - Data Modelling">
    <img 
-      src="https://images.credly.com/size/110x110/images/4e5341a0-031a-477d-a3c6-7a641e79dc2c/Hadoop_Data_Found_Level_1_-_CC_-_2019.png"
-      alt="Hadoop Foundations - Level 1"
+      src="https://images.credly.com/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png"
+      alt="Associate - Data Modelling"
       width="120px" 
       style="max-width:100px;"  />
   </a>&nbsp; &nbsp;
