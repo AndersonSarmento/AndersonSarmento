@@ -45,6 +45,16 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
       style="max-width:100px;"/>
    </a>&nbsp; &nbsp;  
   <a
+   href="https://www.credly.com/badges/7e5864af-2eea-4d43-86fd-4a339d59bcae"
+   target="_blank" 
+   title="Associate - Data Modelling"
+   alt="Associate - Data Modelling">
+   <img 
+      src="https://images.credly.com/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png"
+      alt="Associate - Data Modelling"
+      width="120px" 
+      style="max-width:100px;"  />
+  </a>&nbsp; &nbsp;
   <a
    href="http://badges.com.br/share/929b2a238ef0fba68031a583a89ecb64.php?a=3706"
    target="_blank"
@@ -67,17 +77,6 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
       width="120px" 
       style="max-width:100px;"/>
    </a>&nbsp; &nbsp;
-    <a
-   href="https://www.credly.com/badges/7e5864af-2eea-4d43-86fd-4a339d59bcae"
-   target="_blank" 
-   title="Associate - Data Modelling"
-   alt="Associate - Data Modelling">
-   <img 
-      src="https://images.credly.com/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png"
-      alt="Associate - Data Modelling"
-      width="120px" 
-      style="max-width:100px;"  />
-  </a>&nbsp; &nbsp;
   <a 
    href="https://en.wikipedia.org/wiki/ThunderCats_(1985_TV_series)"
    target="_blank" 
