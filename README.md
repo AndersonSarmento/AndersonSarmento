@@ -67,18 +67,7 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
       width="120px" 
       style="max-width:100px;"/>
    </a>&nbsp; &nbsp;
-  <a 
-   href="https://en.wikipedia.org/wiki/ThunderCats_(1985_TV_series)"
-   target="_blank" 
-   title="Badge Thundercats"
-   alt="Thundercats">
-   <img 
-      src="https://media.tenor.com/WKHXxZDFdhQAAAAi/thundercats-mografic.gif"
-      alt="AWS Certified Solutions Architect – Professional"
-      width="120px" 
-      style="max-width:100px;"  />
-  </a>&nbsp; &nbsp;   
-   <a
+    <a
    href="https://www.credly.com/badges/7e5864af-2eea-4d43-86fd-4a339d59bcae"
    target="_blank" 
    title="Associate - Data Modelling"
@@ -89,20 +78,17 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
       width="120px" 
       style="max-width:100px;"  />
   </a>&nbsp; &nbsp;
-  <a
-   href="https://www.credly.com/badges/22cef697-d67a-42a9-a8fe-fb23f6fc5e32/public_url"
+  <a 
+   href="https://en.wikipedia.org/wiki/ThunderCats_(1985_TV_series)"
    target="_blank" 
-   title="Badge Big Data Foundations-Level 1"
-   alt="Big Data Foundations- - Level 1">
+   title="Badge Thundercats"
+   alt="Thundercats">
    <img 
-      src="https://images.credly.com/size/110x110/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png"
-      alt="Big Data Foundations-Level 1"
+      src="https://media.tenor.com/WKHXxZDFdhQAAAAi/thundercats-mografic.gif"
+      alt="AWS Certified Solutions Architect – Professional"
       width="120px" 
       style="max-width:100px;"  />
-  </a>&nbsp; &nbsp;
-   
-<div>
-  <a href="https://github.com/AndersonSarmento">
+  </a>&nbsp; &nbsp;  
   
  &nbsp;
  &nbsp;
