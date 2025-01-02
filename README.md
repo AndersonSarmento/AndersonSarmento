@@ -1,8 +1,14 @@
 <div align="left">
   
 ## Hello there, I'm Anderson Sarmento  
-<a href="https://www.linkedin.com/in/anderson-sarmento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px" align="right" alt="Computador iuriCode">
+<a href="https://www.linkedin.com/in/anderson-sarmento/" 
+  target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+width="250px" 
+align="right" 
+alt="Computador iuriCode">
 
 I work as a Data Engineer at Itaú Bank.
 My responsibilities include creating and maintaining data pipelines, democratizing tables in Data Lake using AWS Cloud, and handling Finops with Apptio Cloudability.
