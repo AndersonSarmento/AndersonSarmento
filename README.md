@@ -9,23 +9,39 @@ My responsibilities include creating and maintaining data pipelines, democratizi
 I am familiar with various AWS services such as Glue, IAM, Athena, Step Functions, and Eventbridge.
 
 ## Badges  
-</div>
-<p align="left">
-<a href="https://www.credly.com/badges/6e637984-4a6f-476a-9c44-c0096f6f5e19/public_url" target="_blank" title="Badge AWS Certified Cloud Practitioner">
-   <img src="https://user-images.githubusercontent.com/509054/163974726-600afdfa-d161-4013-824d-20e168dc5efc.png" alt="AWS Certified Solutions Architect – Professional" width="120px" style="max-width:100px;" />
-  <br>
-</a>&nbsp; &nbsp;
-<a href="https://www.credly.com/earner/earned/badge/feacb947-8306-4b62-bd57-865da60434fd" target="_blank" title="Professional - Data Engineering">
-   <img src="https://images.credly.com/images/57cd0782-e05d-40f6-ac99-139e8727b945/image.png" alt="Professional - Data Engineering" width="120px" style="max-width:100px;" /> 
+</div> <p align="left">
+<a 
+  href="https://www.credly.com/badges/6e637984-4a6f-476a-9c44-c0096f6f5e19/public_url" 
+  title="Badge AWS Certified Cloud Practitioner">
+  <img src="https://user-images.githubusercontent.com/509054/163974726-600afdfa-d161-4013-824d-20e168dc5efc.png" 
+  alt="Badge AWS Certified Cloud Practitioner" 
+  width="120px" 
+  style="max-width:100px;" />
+<br>
+<a 
+  href="https://www.credly.com/earner/earned/badge/feacb947-8306-4b62-bd57-865da60434fd"
+  title="Professional - Data Engineering">
+  <img src="https://images.credly.com/images/57cd0782-e05d-40f6-ac99-139e8727b945/image.png" 
+  alt="Professional - Data Engineering" 
+  width="120px" 
+  style="max-width:100px;" /> 
+</a> &nbsp;
+<a 
+  href="http://badges.com.br/share/8ce8014aaef3f754b7ed17e33f6728bb.php?a=3712" 
+  target="_blank" title="Associate - Data Engineering">
+  <img src="https://brasilopenbadge.com.br/badge/3712.png?" 
+  alt="Associate - Data Engineering" 
+  width="120px" style="max-width:100px;" />
 </a>&nbsp; &nbsp;  
-<a href="http://badges.com.br/share/8ce8014aaef3f754b7ed17e33f6728bb.php?a=3712" target="_blank" title="Associate - Data Engineering">
-   <img src="https://brasilopenbadge.com.br/badge/3712.png?" alt="Associate - Data Engineering" width="120px" style="max-width:100px;" />
-</a>&nbsp; &nbsp;  
-<a href="https://www.credly.com/badges/7e5864af-2eea-4d43-86fd-4a339d59bcae" target="_blank" title="Associate - Data Modelling">
-   <img src="https://images.credly.com/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png" alt="Associate - Data Modelling" width="120px" style="max-width:100px;" />
+<a href="https://www.credly.com/badges/7e5864af-2eea-4d43-86fd-4a339d59bcae" 
+title="Associate - Data Modelling">
+  <img src="https://images.credly.com/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png" alt="Associate - Data Modelling" width="120px" style="max-width:100px;" />
 </a>&nbsp; &nbsp;
-<a href="http://badges.com.br/share/929b2a238ef0fba68031a583a89ecb64.php?a=3706" target="_blank" title="Practitioner-Leadership D&A">
-   <img src="https://brasilopenbadge.com.br/badge/3706.png" alt="Practitioner-" width="120px" style="max-width:100px;" />
+<a 
+  href="http://badges.com.br/share/929b2a238ef0fba68031a583a89ecb64.php?a=3706" 
+  title="Practitioner-Leadership D&A">
+  <img src="https://brasilopenbadge.com.br/badge/3706.png" 
+  alt="Practitioner-" width="120px" style="max-width:100px;" />
 </a>&nbsp; &nbsp;  
 <a href="http://badges.com.br/share/ddd0b008bd601ac58d61599f3fb37571.php?a=3694" target="_blank" title="Practitioner-D&A Foundation">
    <img src="https://brasilopenbadge.com.br/badge/3694.png" alt="Practitioner-D&A Foundation" width="120px" style="max-width:100px;" />
