@@ -14,48 +14,39 @@ I work as a Data Engineer at Itaú Bank.
 My responsibilities include creating and maintaining data pipelines, democratizing tables in Data Lake using AWS Cloud, and handling Finops with Apptio Cloudability.
 I am familiar with various AWS services such as Glue, IAM, Athena, Step Functions, and Eventbridge.
 
+
 ## Badges  
-</div> <p align="left">
-<a 
-  href="https://www.credly.com/badges/6e637984-4a6f-476a-9c44-c0096f6f5e19/public_url" 
-  title="Badge AWS Certified Cloud Practitioner">
-  <img src="https://user-images.githubusercontent.com/509054/163974726-600afdfa-d161-4013-824d-20e168dc5efc.png" 
-  alt="Badge AWS Certified Cloud Practitioner" 
-  width="120px" 
-  style="max-width:100px;" />
-<br>
-<a 
-  href="https://www.credly.com/earner/earned/badge/feacb947-8306-4b62-bd57-865da60434fd"
-  title="Professional - Data Engineering">
-  <img src="https://images.credly.com/images/57cd0782-e05d-40f6-ac99-139e8727b945/image.png" 
-  alt="Professional - Data Engineering" 
-  width="120px" 
-  style="max-width:100px;" /> 
-</a> &nbsp;
-<a 
-  href="http://badges.com.br/share/8ce8014aaef3f754b7ed17e33f6728bb.php?a=3712" 
-  target="_blank" title="Associate - Data Engineering">
-  <img src="https://brasilopenbadge.com.br/badge/3712.png?" 
-  alt="Associate - Data Engineering" 
-  width="120px" style="max-width:100px;" />
-</a>&nbsp; &nbsp;  
-<a href="https://www.credly.com/badges/7e5864af-2eea-4d43-86fd-4a339d59bcae" 
-title="Associate - Data Modelling">
-  <img src="https://images.credly.com/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png" alt="Associate - Data Modelling" width="120px" style="max-width:100px;" />
-</a>&nbsp; &nbsp;
-<a 
-  href="http://badges.com.br/share/929b2a238ef0fba68031a583a89ecb64.php?a=3706" 
-  title="Practitioner-Leadership D&A">
-  <img src="https://brasilopenbadge.com.br/badge/3706.png" 
-  alt="Practitioner-" width="120px" style="max-width:100px;" />
-</a>&nbsp; &nbsp;  
-<a href="http://badges.com.br/share/ddd0b008bd601ac58d61599f3fb37571.php?a=3694" target="_blank" title="Practitioner-D&A Foundation">
-   <img src="https://brasilopenbadge.com.br/badge/3694.png" alt="Practitioner-D&A Foundation" width="120px" style="max-width:100px;" />
-</a>&nbsp; &nbsp;<br>
-<a href="https://en.wikipedia.org/wiki/ThunderCats_(1985_TV_series)" target="_blank" title="Badge Thundercats">
-   <img src="https://media.tenor.com/WKHXxZDFdhQAAAAi/thundercats-mografic.gif" alt="Thundercats" width="120px" style="max-width:100px;" />
-</a>&nbsp; &nbsp;
+</div>
+<p align="left">
+  <a href="https://www.credly.com/badges/6e637984-4a6f-476a-9c44-c0096f6f5e19/public_url" title="Badge AWS Certified Cloud Practitioner">
+    <img src="https://user-images.githubusercontent.com/509054/163974726-600afdfa-d161-4013-824d-20e168dc5efc.png" alt="Badge AWS Certified Cloud Practitioner" width="120px" style="max-width:100px;" />
+  </a>
+  <br><br>
+  <a href="http://badges.com.br/share/929b2a238ef0fba68031a583a89ecb64.php?a=3706" title="Practitioner-Leadership D&A">
+    <img src="https://brasilopenbadge.com.br/badge/3706.png" alt="Practitioner-Leadership D&A" width="120px" style="max-width:100px;" />
+  </a>&nbsp; &nbsp;
+  <a href="http://badges.com.br/share/ddd0b008bd601ac58d61599f3fb37571.php?a=3694" target="_blank" title="Practitioner-D&A Foundation">
+    <img src="https://brasilopenbadge.com.br/badge/3694.png" alt="Practitioner-D&A Foundation" width="120px" style="max-width:100px;" />
+  </a>
+  <br><br>
+  <a href="https://www.credly.com/earner/earned/badge/feacb947-8306-4b62-bd57-865da60434fd" title="Professional - Data Engineering">
+    <img src="https://images.credly.com/images/57cd0782-e05d-40f6-ac99-139e8727b945/image.png" alt="Professional - Data Engineering" width="120px" style="max-width:100px;" /> 
+  </a>&nbsp; &nbsp;
+  <a href="http://badges.com.br/share/8ce8014aaef3f754b7ed17e33f6728bb.php?a=3712" target="_blank" title="Associate - Data Engineering">
+    <img src="https://brasilopenbadge.com.br/badge/3712.png?" alt="Associate - Data Engineering" width="120px" style="max-width:100px;" />
+  </a>&nbsp; &nbsp;  
+  <a href="https://www.credly.com/badges/7e5864af-2eea-4d43-86fd-4a339d59bcae" title="Associate - Data Modelling">
+    <img src="https://images.credly.com/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png" alt="Associate - Data Modelling" width="120px" style="max-width:100px;" />
+  </a>&nbsp; &nbsp;
+   <a href="https://www.credly.com/badges/1c828e87-e1c2-4d2c-b19a-f904f42df6ce" title="Associate - Analytics Engineering">
+    <img src="https://images.credly.com/size/340x340/images/4bb6709a-e50d-47fa-94d5-0327ccd399bf/image.png" alt="Associate - Analytics Engineering" width="120px" style="max-width:100px;" />
+  </a>&nbsp; &nbsp;
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/ThunderCats_(1985_TV_series)" target="_blank" title="Badge Thundercats">
+    <img src="https://media.tenor.com/WKHXxZDFdhQAAAAi/thundercats-mografic.gif" alt="Thundercats" width="120px" style="max-width:100px;" />
+  </a>
 </p>
+
 
 
 
