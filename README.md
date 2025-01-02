@@ -18,25 +18,40 @@ I am familiar with various AWS services such as Glue, IAM, Athena, Step Function
 ## Badges  
 </div>
 <p align="left">
-  <a href="https://www.credly.com/badges/6e637984-4a6f-476a-9c44-c0096f6f5e19/public_url" title="Badge AWS Certified Cloud Practitioner">
-    <img src="https://user-images.githubusercontent.com/509054/163974726-600afdfa-d161-4013-824d-20e168dc5efc.png" alt="Badge AWS Certified Cloud Practitioner" width="120px" style="max-width:100px;" />
+  <a href="https://www.credly.com/badges/6e637984-4a6f-476a-9c44-c0096f6f5e19/public_url" 
+    title="Badge AWS Certified Cloud Practitioner">
+    <img src="https://user-images.githubusercontent.com/509054/163974726-600afdfa-d161-4013-824d-20e168dc5efc.png" 
+    alt="Badge AWS Certified Cloud Practitioner" 
+    width="120px" style="max-width:100px;" />
   </a>
   <br><br>
-  <a href="http://badges.com.br/share/929b2a238ef0fba68031a583a89ecb64.php?a=3706" title="Practitioner-Leadership D&A">
-    <img src="https://brasilopenbadge.com.br/badge/3706.png" alt="Practitioner-Leadership D&A" width="120px" style="max-width:100px;" />
+  <a href="https://www.credly.com/badges/bd823c4a-de34-40a3-ac9a-99517adfdd93" 
+    title="Practitioner-Leadership D&A">
+    <img src="https://images.credly.com/size/340x340/images/eec6f18d-b9f4-4d72-b55d-d802e4ad4e79/image.png" 
+      alt="Practitioner-Leadership D&A" width="120px" style="max-width:100px;" />
   </a>&nbsp; &nbsp;
-  <a href="http://badges.com.br/share/ddd0b008bd601ac58d61599f3fb37571.php?a=3694" target="_blank" title="Practitioner-D&A Foundation">
-    <img src="https://brasilopenbadge.com.br/badge/3694.png" alt="Practitioner-D&A Foundation" width="120px" style="max-width:100px;" />
+  <a href="https://www.credly.com/badges/5d2f19f7-78da-4dd6-95b0-1135b31c0520" 
+    title="Practitioner-D&A Foundation">
+    <img src="https://images.credly.com/size/340x340/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png" 
+    alt="Practitioner-D&A Foundation"
+    width="120px" style="max-width:100px;" />
   </a>
   <br><br>
-  <a href="https://www.credly.com/earner/earned/badge/feacb947-8306-4b62-bd57-865da60434fd" title="Professional - Data Engineering">
-    <img src="https://images.credly.com/images/57cd0782-e05d-40f6-ac99-139e8727b945/image.png" alt="Professional - Data Engineering" width="120px" style="max-width:100px;" /> 
+  <a href="https://www.credly.com/badges/feacb947-8306-4b62-bd57-865da60434fd"
+    title="Professional - Data Engineering">
+    <img src="https://images.credly.com/size/340x340/images/57cd0782-e05d-40f6-ac99-139e8727b945/image.png"
+      alt="Professional - Data Engineering" 
+      width="120px" style="max-width:100px;" /> 
   </a>&nbsp; &nbsp;
-  <a href="http://badges.com.br/share/8ce8014aaef3f754b7ed17e33f6728bb.php?a=3712" target="_blank" title="Associate - Data Engineering">
-    <img src="https://brasilopenbadge.com.br/badge/3712.png?" alt="Associate - Data Engineering" width="120px" style="max-width:100px;" />
+  <a href="https://www.credly.com/badges/162e3279-8f09-470f-be87-c10a6c7e3ba6" 
+    title="Associate - Data Engineering">
+    <img src="https://images.credly.com/size/340x340/images/27224c08-f61c-4d82-b929-325f96af326a/image.png" 
+      alt="Associate - Data Engineering" width="120px" style="max-width:100px;" />
   </a>&nbsp; &nbsp;  
   <a href="https://www.credly.com/badges/7e5864af-2eea-4d43-86fd-4a339d59bcae" title="Associate - Data Modelling">
-    <img src="https://images.credly.com/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png" alt="Associate - Data Modelling" width="120px" style="max-width:100px;" />
+    <img src="https://images.credly.com/size/340x340/images/dbbbaffb-5117-4da2-9b03-eae604acbf51/image.png"
+      alt="Associate - Data Modelling"
+      width="120px" style="max-width:100px;" />
   </a>&nbsp; &nbsp;
    <a href="https://www.credly.com/badges/1c828e87-e1c2-4d2c-b19a-f904f42df6ce" title="Associate - Analytics Engineering">
     <img src="https://images.credly.com/size/340x340/images/4bb6709a-e50d-47fa-94d5-0327ccd399bf/image.png" alt="Associate - Analytics Engineering" width="120px" style="max-width:100px;" />
